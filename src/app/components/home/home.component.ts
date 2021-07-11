@@ -11,6 +11,7 @@ export class HomeComponent implements OnInit {
 
   ngOnInit(): void {
 	  console.log('Home is Working!');
+	  console.log('DevOps CI/CD Pipeline w/ GitHub Actions');
   }
 
 }
